@@ -1,0 +1,14 @@
+【スキル】
+開発言語
+PHP / Perl / HTML5 / CSS3 / JavaScript / jQuery /
+C++ / VisualBasic / 
+
+CMS
+Wordpress / EC-CUBE / XOOPS
+
+OS
+Windows / Linux / Apache / 
+
+DB
+ORACLE /MySQL / Postgres
+
